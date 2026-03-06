@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">_*hey there 👋 Buddies!*</h1>
+<h1 align="center"><em>hey there 👋 Buddies!</em></h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
