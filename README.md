@@ -77,6 +77,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prA-G&theme=bloom&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
+---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prA-G&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -98,4 +102,9 @@
   <img src="https://komarev.com/ghpvc/?username=prA-G&color=EAB8E4&style=flat" alt="Profile views"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prA-G&color=blueviolet&style=flat" alt="Profile views"/>
+</p>
 
