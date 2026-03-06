@@ -14,13 +14,9 @@
   </a>
   
 </div>
-
+---
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 
@@ -34,6 +30,7 @@
 
 <p align="left">I'm MSHIVRAJ from Kolhapur <br><br>- 📚 I'm currently learning Data Science with GenAi<br>- ⚡ In my free time I explore new tech world</p>
 
+---
 
 ### 🌙 Mantra
 
