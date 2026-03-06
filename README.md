@@ -14,7 +14,7 @@
   </a>
   
 </div>
----
+
 
 ###
 
@@ -69,7 +69,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-F3D0E5?style=for-the-badge&logo=github&logoColor=181717)
 ![Git](https://img.shields.io/badge/Git-F6D5F7?style=for-the-badge&logo=git&logoColor=F05032)
 
-/>
 </div>
 
 
