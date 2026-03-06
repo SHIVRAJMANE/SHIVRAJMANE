@@ -34,6 +34,15 @@
 
 <p align="left">I'm MSHIVRAJ from Kolhapur <br><br>- 📚 I'm currently learning Data Science with GenAi<br>- ⚡ In my free time I explore new tech world</p>
 
+
+### 🌙 Mantra
+
+> _“I don’t just code — I conjure constellations of logic.”_  
+> _“Each dataset is a sky — I just connect the stars.”_  
+
+🪄 Still curious. Still cosmic. Still coding softly into the night.
+
+---
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -69,15 +78,31 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+### 🔥 Streak in Bloom
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prA-G&theme=bloom&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
 
-###
+---
+
+### 💫 Aesthetic Add-ons  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+### 🌙 Motto
+
+> *"Not just writing code — I’m composing data symphonies."* 🎼  
+
+🌸 Forever learning. Forever curious. Forever building magic with logic.  
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prA-G&color=EAB8E4&style=flat" alt="Profile views"/>
+</p>
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajmane&" alt="shivrajmane" /></p> -->
