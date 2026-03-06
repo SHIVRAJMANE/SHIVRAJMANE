@@ -23,13 +23,37 @@
 <h1 align="center">_*hey there 👋 Buddies!*</h1>
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
-###
+<p align="left">
+  
+I'm <b>MSHIVRAJ</b> from Kolhapur, India  <br><br>
 
-<p align="left">I'm MSHIVRAJ from Kolhapur <br><br>- 📚 I'm currently learning Data Science with GenAi<br>- ⚡ In my free time I explore new tech world</p>
+🎓 <b>BE in Artificial Intelligence</b> — exploring how intelligent systems learn from data and transform ideas into real-world solutions. <br><br>
+
+💡 I’m passionate about understanding how data, algorithms, and models work together to solve complex problems and create intelligent applications.
+
+</p>
 
 ---
+
+### 🚀 What I'm Currently Learning
+
+* 🐍 **Python Development** — writing clean, efficient, and scalable code
+* 🧠 **Machine Learning & Deep Learning** — transforming data into intelligent predictions
+* 💬 **Natural Language Processing (NLP)** — enabling machines to understand human language
+* 🗄 **SQL & Data Analysis** — uncovering insights from structured data
+* 🧩 **Data Structures & Algorithms** — strengthening logical problem-solving
+* 🤖 **Data Science & Generative AI** — building intelligent and creative AI systems
+
+---
+
+🌱 Currently preparing for **advanced studies in Artificial Intelligence** and continuously exploring new technologies in the AI ecosystem.
+
+⚡ In my free time, I enjoy exploring the tech world and learning about emerging innovations.
+
+💫 **Fun fact:** Sometimes the best debugging technique is just coffee ☕ and a fresh perspective.
+
 
 ### 🌙 Mantra
 
@@ -75,10 +99,6 @@
 ### 🔥 Streak in Bloom
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prA-G&theme=bloom&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
----
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=prA-G&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
@@ -96,11 +116,6 @@
 > *"Not just writing code — I’m composing data symphonies."* 🎼  
 
 🌸 Forever learning. Forever curious. Forever building magic with logic.  
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prA-G&color=EAB8E4&style=flat" alt="Profile views"/>
-</p>
 
 ---
 
