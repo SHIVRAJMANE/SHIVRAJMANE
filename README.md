@@ -48,30 +48,7 @@
 <div align="left">
 
 ### 🧰 My Tech Palette
-
-#### 🪄 Languages & Libraries
-
-![Python](https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=4B8BBE)
-![SQL](https://img.shields.io/badge/SQL-FDE2E4?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![NumPy](https://img.shields.io/badge/NumPy-E2D6F9?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-F9E1E0?style=for-the-badge&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-EADCF9?style=for-the-badge&logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-FBEAFF?style=for-the-badge&logo=seaborn&logoColor=005571)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-FAD4D8?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![spaCy](https://img.shields.io/badge/spaCy-FCE1F1?style=for-the-badge&logo=spacy&logoColor=0088CC)
-![Docker](https://img.shields.io/badge/Docker-DDEEFF?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-#### ☁️ Tools & Platforms
-
-![Jupyter](https://img.shields.io/badge/Jupyter-FCE2E2?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![VS Code](https://img.shields.io/badge/VS%20Code-E9DAF3?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/GitHub-F3D0E5?style=for-the-badge&logo=github&logoColor=181717)
-![Git](https://img.shields.io/badge/Git-F6D5F7?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
----
-<div align="left">
-#### 🪄 Languages & Libraries
+🪄 **Languages & Libraries**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
