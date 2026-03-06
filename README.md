@@ -65,7 +65,6 @@ I'm <b>MSHIVRAJ</b> from Kolhapur, India.  <br><br>
 
 <div align="left">
 
-### 🧰 My Tech Palette
 🪄 **Languages & Libraries**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
