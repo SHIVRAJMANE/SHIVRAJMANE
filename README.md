@@ -57,13 +57,11 @@ I'm <b>MSHIVRAJ</b> from Kolhapur, India.  <br><br>
 🪄 Still curious. Still cosmic. Still coding softly into the night.
 
 ---
-###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🧰 My Tech Palette
 
 <div align="left">
+
 
 🪄 **Languages & Libraries**
 
