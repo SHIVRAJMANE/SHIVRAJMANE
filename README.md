@@ -24,12 +24,9 @@
 
 <p align="left">
   
-I'm <b>MSHIVRAJ</b> from Kolhapur, India  <br><br>
-
+I'm <b>MSHIVRAJ</b> from Kolhapur, India.  <br><br>
 🎓 <b>BE in Artificial Intelligence</b> — exploring how intelligent systems learn from data and transform ideas into real-world solutions. <br><br>
-
 💡 I’m passionate about understanding how data, algorithms, and models work together to solve complex problems and create intelligent applications.
-
 </p>
 
 ---
