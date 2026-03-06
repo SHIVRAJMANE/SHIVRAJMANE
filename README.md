@@ -18,10 +18,7 @@
 
 ###
 
-###
-
 <h1 align="center">_*hey there 👋 Buddies!*</h1>
-###
 
 <h3 align="left">👩‍💻 About Me</h3>
 
